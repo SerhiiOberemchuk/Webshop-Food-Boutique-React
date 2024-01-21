@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Webshop-Food-Boutique-React/static/css/main.7acaea2f.css",
-    "main.js": "/Webshop-Food-Boutique-React/static/js/main.597b0cbf.js",
+    "main.css": "/Webshop-Food-Boutique-React/static/css/main.5203bd1c.css",
+    "main.js": "/Webshop-Food-Boutique-React/static/js/main.9fd05bd9.js",
     "index.html": "/Webshop-Food-Boutique-React/index.html",
-    "main.7acaea2f.css.map": "/Webshop-Food-Boutique-React/static/css/main.7acaea2f.css.map",
-    "main.597b0cbf.js.map": "/Webshop-Food-Boutique-React/static/js/main.597b0cbf.js.map"
+    "main.5203bd1c.css.map": "/Webshop-Food-Boutique-React/static/css/main.5203bd1c.css.map",
+    "main.9fd05bd9.js.map": "/Webshop-Food-Boutique-React/static/js/main.9fd05bd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.597b0cbf.js"
+    "static/css/main.5203bd1c.css",
+    "static/js/main.9fd05bd9.js"
   ]
 }
