@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Webshop-Food-Boutique-React/static/css/main.7acaea2f.css",
+    "main.js": "/Webshop-Food-Boutique-React/static/js/main.597b0cbf.js",
+    "index.html": "/Webshop-Food-Boutique-React/index.html",
+    "main.7acaea2f.css.map": "/Webshop-Food-Boutique-React/static/css/main.7acaea2f.css.map",
+    "main.597b0cbf.js.map": "/Webshop-Food-Boutique-React/static/js/main.597b0cbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.597b0cbf.js"
+  ]
+}
